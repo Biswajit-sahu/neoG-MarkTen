@@ -68,6 +68,10 @@ table {
     color: red;
 }
 
+footer{
+    display: block;
+}
+
 @media (min-width: 768px) {
     .box {
         margin-top: 1rem;
